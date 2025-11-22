@@ -19,8 +19,8 @@ To write a Java program that adds elements from an array into a TreeSet and disp
 
 ## Program:
 ```
-Developed by: SANJAY M
-RegisterNumber:  212223230187
+Developed by: KISHORE G
+RegisterNumber:  212223040099
 ```
 ```
 import java.util.*;
