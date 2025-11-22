@@ -14,8 +14,8 @@ To implement a program that tracks the first unique (non-repeating) number in a 
 
 ## Program:
 ```
-Developed by: SANJAY M
-RegisterNumber:  2212223230187
+Developed by: KISHORE G
+RegisterNumber:  212223040099
 ```
 ```
 import java.util.*;
