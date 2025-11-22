@@ -12,8 +12,8 @@ To write a Java program that fills the first 10 elements of an array with a cons
 
 ## Program:
 ```
-Developed by: SANJAY M
-RegisterNumber:  212223230187
+Developed by: KISHORE G
+RegisterNumber:  212223040099
 ```
 ```
 
