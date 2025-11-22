@@ -12,8 +12,8 @@ To convert a collection of distinct integers stored in a HashSet into an ArrayLi
 
 ## Program:
 ```
-Developed by: SANJAY M
-RegisterNumber:  212223230187
+Developed by: KISHORE G
+RegisterNumber:  212223040099
 ```
 ```
 
